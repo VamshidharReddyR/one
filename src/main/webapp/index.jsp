@@ -2,7 +2,7 @@
 <body>
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS THE SECOUND VERSION OF OUR APP</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">Deploying for 2nd time</h1>
+	<h1 style="color: blue; font-size: 40px;" align="center">Welcome to the webpage</h1>
 	
 	
 	
